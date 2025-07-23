@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Taleem-e-Quran</title>
+  <meta name="description" content="Learn Quran with translation, tafseer and reflections.">
+  <link rel="stylesheet"
+herf="style.css">
+</head>
+<body>
+  <header>
+    <h1>Taleem-e-Quran</h1>
+    <p>Understanding the Quran - One Ayah at a Time</p>
+  </header>
+
+  <main>
+    <h2>📖 Surah Collection</h2>
+    <ul>
+      <li><a herf="https://quran.com/1"
+target="_blank">Surah Al-Fatiha
+(Translation)</a></li>
+      <li><a herf="https://quran.com/2"
+target="_blank">Surah Al-Baqarah</a></li>
+      <!-- Add more links -->
+    </ul>
+
+    <h2>🎧Tafseer (Audio)</h2>
+    <ul>
+      <li><a
+herf="https://www.youtube.com/watch?v=example" target="-blank">Tafseer Al-Fatiha by Dr. Israr</a></li>
+    <ul>
+
+    <h2>📚Reflections & Notes</h2>
+    <p>"Indeed, in the remembrance of Allah do hearts find peace." (13:28)</p>
+
+    <h2>Contact</h2>
+    <p>📱 <a
+herf="https://wa.me/923001234567">Join our WhatsApp Group</a></p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Taleem-e-Quran. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
